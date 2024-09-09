@@ -1,8 +1,8 @@
-package com.epam.p01creational.p02factorymethod.creators;
+package org.khnure.p01creational.p02factorymethod.creators;
 
-import com.epam.p01creational.p02factorymethod.models.Book;
-import com.epam.p01creational.p02factorymethod.models.Laptop;
-import com.epam.p01creational.p02factorymethod.models.Product;
+import org.khnure.p01creational.p02factorymethod.models.Book;
+import org.khnure.p01creational.p02factorymethod.models.Laptop;
+import org.khnure.p01creational.p02factorymethod.models.Product;
 
 // Конкретна реалізація Creatorа.
 public class ConcreteCreator extends Creator {

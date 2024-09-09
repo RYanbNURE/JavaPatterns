@@ -1,4 +1,4 @@
-package com.epam.p01creational.p01singleton.p5blockingonclass;
+package org.khnure.p01creational.p01singleton.p5blockingonclass;
 
 public class Singleton {
     private static Singleton instance;

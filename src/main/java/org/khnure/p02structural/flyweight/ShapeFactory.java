@@ -1,7 +1,7 @@
-package com.epam.p02structural.flyweight;
+package org.khnure.p02structural.flyweight;
 
-import com.epam.p02structural.flyweight.models.Circle;
-import com.epam.p02structural.flyweight.models.Shape;
+import org.khnure.p02structural.flyweight.models.Circle;
+import org.khnure.p02structural.flyweight.models.Shape;
 
 import java.util.HashMap;
 import java.util.Map;

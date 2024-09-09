@@ -1,4 +1,4 @@
-package com.epam.p02structural.flyweight.models;
+package org.khnure.p02structural.flyweight.models;
 
 // Конкретна імплементація Flyweight (Коло)
 public class Circle implements Shape {

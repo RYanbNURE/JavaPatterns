@@ -1,9 +1,9 @@
-package com.epam.p02structural.bridge.demo;
+package org.khnure.p02structural.bridge.demo;
 
-import com.epam.p02structural.bridge.control.DeviceControl;
-import com.epam.p02structural.bridge.control.RemoteControl;
-import com.epam.p02structural.bridge.device.Device;
-import com.epam.p02structural.bridge.device.Television;
+import org.khnure.p02structural.bridge.control.DeviceControl;
+import org.khnure.p02structural.bridge.control.RemoteControl;
+import org.khnure.p02structural.bridge.device.Device;
+import org.khnure.p02structural.bridge.device.Television;
 
 // Основний клас для демонстрації патерну міст
 public class BridgeDemo {

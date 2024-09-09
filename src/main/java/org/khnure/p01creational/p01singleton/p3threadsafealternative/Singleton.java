@@ -1,4 +1,4 @@
-package com.epam.p01creational.p01singleton.p3threadsafealternative;
+package org.khnure.p01creational.p01singleton.p3threadsafealternative;
 
 public class Singleton {
     // Приватний конструктор, що запобігає безпосередньому інстанціюванню класу.

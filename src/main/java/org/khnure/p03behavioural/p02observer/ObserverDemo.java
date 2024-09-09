@@ -1,4 +1,4 @@
-package com.epam.p03behavioural.p02observer;
+package org.khnure.p03behavioural.p02observer;
 
 // Головний клас для тестування шаблону спостерігача
 public class ObserverDemo {

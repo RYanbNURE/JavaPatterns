@@ -1,6 +1,6 @@
-package com.epam.p01creational.p02factorymethod.creators;
+package org.khnure.p01creational.p02factorymethod.creators;
 
-import com.epam.p01creational.p02factorymethod.models.Product;
+import org.khnure.p01creational.p02factorymethod.models.Product;
 
 // Клієнт використовує Factory для створення об'єктів.
 public abstract class Creator {

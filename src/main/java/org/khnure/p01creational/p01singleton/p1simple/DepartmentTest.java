@@ -1,4 +1,4 @@
-package com.epam.p01creational.p01singleton.p1simple;
+package org.khnure.p01creational.p01singleton.p1simple;
 
 import java.util.ArrayList;
 import java.util.List;

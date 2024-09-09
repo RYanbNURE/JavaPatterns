@@ -1,4 +1,4 @@
-package com.epam.p02structural.interpreter.expressions;
+package org.khnure.p02structural.interpreter.expressions;
 
 // Нетермінальний вираз для логічного І (AND)
 public class AndExpression implements Expression {

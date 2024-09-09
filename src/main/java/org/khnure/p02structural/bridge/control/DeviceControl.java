@@ -1,6 +1,6 @@
-package com.epam.p02structural.bridge.control;
+package org.khnure.p02structural.bridge.control;
 
-import com.epam.p02structural.bridge.device.Device;
+import org.khnure.p02structural.bridge.device.Device;
 
 /**
  * У даному прикладі Bridge патерн дозволяє абстрагувати компоненти та їх імплементації,

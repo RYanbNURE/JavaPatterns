@@ -1,4 +1,4 @@
-package com.epam.p02structural.bridge.device;
+package org.khnure.p02structural.bridge.device;
 
 // Конкретна імплементація - Телевізор
 public class Television implements Device {

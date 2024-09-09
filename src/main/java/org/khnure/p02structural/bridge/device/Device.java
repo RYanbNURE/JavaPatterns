@@ -1,4 +1,4 @@
-package com.epam.p02structural.bridge.device;
+package org.khnure.p02structural.bridge.device;
 
 public interface Device {
     boolean isEnabled();

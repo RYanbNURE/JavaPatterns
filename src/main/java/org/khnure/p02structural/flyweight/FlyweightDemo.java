@@ -1,6 +1,6 @@
-package com.epam.p02structural.flyweight;
+package org.khnure.p02structural.flyweight;
 
-import com.epam.p02structural.flyweight.models.Shape;
+import org.khnure.p02structural.flyweight.models.Shape;
 
 // Основний клас для демонстрації патерну Flyweight
 public class FlyweightDemo {

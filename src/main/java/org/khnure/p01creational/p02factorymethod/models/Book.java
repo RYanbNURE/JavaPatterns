@@ -1,4 +1,4 @@
-package com.epam.p01creational.p02factorymethod.models;
+package org.khnure.p01creational.p02factorymethod.models;
 
 // Конкретний продукт - книга.
 public class Book extends Product {

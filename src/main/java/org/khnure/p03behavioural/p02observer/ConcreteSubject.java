@@ -1,4 +1,4 @@
-package com.epam.p03behavioural.p02observer;
+package org.khnure.p03behavioural.p02observer;
 
 // Конкретний суб'єкт, який буде оновлювати своїх спостерігачів
 public class ConcreteSubject extends Subject {

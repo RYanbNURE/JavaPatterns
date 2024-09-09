@@ -1,4 +1,4 @@
-package com.epam.p03behavioural.p02observer;
+package org.khnure.p03behavioural.p02observer;
 
 // Конкретний спостерігач, який реагує на оновлення статусу
 public class ConcreteObserver implements Observer {

@@ -1,4 +1,4 @@
-package com.epam.p03behavioural.p01templatemethod;
+package org.khnure.p03behavioural.p01templatemethod;
 
 public abstract class Algorithm {
     // Шаблонний метод, який реалізує основну логіку алгоритму
@@ -8,11 +8,18 @@ public abstract class Algorithm {
         if (isAdditionalStepNeeded()) {
             additionalStep();
         }
+//        if (pdf) {
+//            ....
+//        }
+//        if (excel) {
+//            ...
+//        }
         stepThree();
     }
 
-    // Абстрактний метод, який має бути реалізований у підкласах для першого кроку
-    protected abstract void stepOne();
+    protected void stepOne() {
+        System.out.println("Concrete step");
+    }
 
     // Абстрактний метод, який має бути реалізований у підкласах для другого кроку
     protected abstract void stepTwo();
@@ -26,5 +33,7 @@ public abstract class Algorithm {
     protected abstract void additionalStep();
 
     // Абстрактний метод, який має бути реалізований у підкласах для третього кроку
-    protected abstract void stepThree();
+    protected void stepThree() {
+        System.out.println("Надіслати сповіщення");
+    };
 }

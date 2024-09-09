@@ -1,4 +1,4 @@
-package com.epam.p02structural.interpreter.expressions;
+package org.khnure.p02structural.interpreter.expressions;
 
 // Термінальний вираз для окремого слова
 public class TerminalExpression implements Expression {

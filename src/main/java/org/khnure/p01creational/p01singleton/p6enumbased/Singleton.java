@@ -1,4 +1,4 @@
-package com.epam.p01creational.p01singleton.p6enumbased;
+package org.khnure.p01creational.p01singleton.p6enumbased;
 
 public enum Singleton {
     // Єдиний елемент перечислення, який представляє єдиний екземпляр класу Singleton.

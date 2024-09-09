@@ -1,8 +1,8 @@
-package com.epam.p02structural.interpreter;
+package org.khnure.p02structural.interpreter;
 
-import com.epam.p02structural.interpreter.expressions.AndExpression;
-import com.epam.p02structural.interpreter.expressions.Expression;
-import com.epam.p02structural.interpreter.expressions.TerminalExpression;
+import org.khnure.p02structural.interpreter.expressions.AndExpression;
+import org.khnure.p02structural.interpreter.expressions.Expression;
+import org.khnure.p02structural.interpreter.expressions.TerminalExpression;
 
 // Основний клас для демонстрації патерну Інтерпретатор
 public class InterpreterDemo {

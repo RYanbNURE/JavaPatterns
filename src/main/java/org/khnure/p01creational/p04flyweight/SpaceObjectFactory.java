@@ -1,4 +1,4 @@
-package com.epam.p01creational.p04flyweight;
+package org.khnure.p01creational.p04flyweight;
 
 public class SpaceObjectFactory {
     private static java.util.Map<String, SpaceObjectFlyweight> spaceObjects = new

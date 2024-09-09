@@ -1,4 +1,4 @@
-package com.epam.p01creational.p02factorymethod.models;
+package org.khnure.p01creational.p02factorymethod.models;
 
 /**
  * Паттерн Factory Method уособлює логіку створення об'єктів від їх клієнтів завдяки створенню методу,

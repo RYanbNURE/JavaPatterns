@@ -1,4 +1,4 @@
-package com.epam.p01creational.p01singleton.p4threadsafedoublelocking;
+package org.khnure.p01creational.p01singleton.p4threadsafedoublelocking;
 
 public class Singleton {
     private static volatile Singleton instance;

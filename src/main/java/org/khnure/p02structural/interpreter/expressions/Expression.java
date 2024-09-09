@@ -1,4 +1,4 @@
-package com.epam.p02structural.interpreter.expressions;
+package org.khnure.p02structural.interpreter.expressions;
 
 // Інтерфейс виразу - основа для всіх конкретних виразів
 public interface Expression {

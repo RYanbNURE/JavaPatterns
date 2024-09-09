@@ -1,4 +1,4 @@
-package com.epam.p01creational.p04flyweight;
+package org.khnure.p01creational.p04flyweight;
 
 public class SpaceObjectFlyweight {
     private String name; // Ім'я космічного об'єкта
